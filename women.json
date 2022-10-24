@@ -1,0 +1,68 @@
+{
+    "wClothesData":[
+    {
+        "id":"w1",
+        "url": "https://i.postimg.cc/50M65qFp/image-31-2x.png",
+        "title":"Creamy Floral Print",
+        "desc": "The tiered and flowy drape of this dress will add drama and a spring to your step. The floral print on the ivory base makes it perfect for day soirees. It is accompanied by a cotton cami slip and comes with three-quarter sleeves, a midi hemline and V-neckline."
+      
+    },
+
+    {
+        "id":"w2",
+        "url": "https://i.postimg.cc/7ZY10Dyb/image-4-2x.png",
+        "title":"Pure Viscose Printed Dress",
+        "desc":"Update your wardrobe with this crochet dress, which features a sleeveless pattern, a straight hemline, and a round collar in the House of S&S's modern design. These patterned dresses are constructed of a smooth, breathable fabric that is ideal for the spring, summer, and fall seasons."
+    },
+    {
+        "id":"w3",
+        "url": "https://i.postimg.cc/PrKYtc8H/image-53-2x.png",
+        "title":"Striped A-Line Dress with Tie-UP",
+        "desc":"Update your wardrobe with this crochet dress, which features a full sleeves pattern, a straight hemline, and a round collar in the House of S&S's modern design."
+        
+    },
+    {
+        "id":"w4",
+        "url": "https://i.postimg.cc/Z529nhbG/rectangle-3-2x.png",
+        "title":"Pure Lyocell Plain Spread Collar Dress",
+        "desc":"With it's spread collar and belted waist, our Marks &Spencer knee-length denim dress is the ultimate in sports style. The full-sleeves with front button closure piece works beautifully on its own with power pumps or a sneakers and a ladylike bag for smart casual look."
+    },
+    {
+        "id":"w5",
+        "url": "https://i.postimg.cc/bJHdmDxP/rectangle-4-2x.png",
+        "title":"Floral Belted Mini Shirt Dress",
+        "desc":"Bring a playful touch to your day with this floral mini shirt dress. It's made in a regular fit with a tie belt at the waist for a flattering shape. We've added frills at the cuffs of the short sleeves for a fun and feminine pop."
+    },
+    {
+        "id":"w6",
+        "url": "https://i.postimg.cc/bJQS4FjK/rectangle-5-2x.png",
+        "title":"Pure Viscose Embroidered Boat Neck Dress",
+        "desc":"This delicate ivory dress will make you feel like a queen! All over paisley embroidery and metallic buttons up the charm of this flowy white number. Pair with strappy gold sandals and minimal accessories to look ethereal."
+    },
+    {
+        "id":"w6",
+        "url": "https://i.postimg.cc/Znbn2bHd/rectangle-6-2x.png",
+        "title":"Cotton Mix Embroidered Round Neck Dress",
+        "desc":"Wear the ultimate expression of House of Marks & Spencer as it features the comfort and style factors of any women's wardrobe. Made from soft cotton fabric, this mesh embroidered dress is designed to stay chic and comfortable wash after wash."
+    },
+    {
+        "id":"w7",
+        "url": "https://i.postimg.cc/2y0yfs9X/rectangle-7-2x.png",
+        "title":"Linen Rich Striped Utility Playsuit",
+        "desc":"Made with a linen-rich blend, this striped utility playsuit is just the ticket for short getaways and warm weekends. It's cut to a regular fit, with a drawstring waist to flatter your figure and a smart collared neck. This piece is designed with button-through fastening and two chest pockets."
+    },
+    {
+        "id":"w8",
+        "url": "https://i.postimg.cc/0QH02B4r/image-1-2x.png",
+        "title":"Linen Blend Collared Midi Shirt Dress",
+        "desc":"For effortless sophisticated style, look no further than this linen-blend short sleeve shirt dress. Regular fit with a collared neckline and flattering midi length. Design has button fastening and tie belt, plus pocket detailing on the front. S&S Collection: easy-to-wear wardrobe staples that combine classic and contemporary styles."
+    },
+    {
+        "id":"w9",
+        "url": "https://i.postimg.cc/J0DcyQwx/image-2-2x.png",
+        "title":"Floral V-Neck Midaxi Tiered Dress",
+        "desc":"Feel breezy on balmy days with this floral dress. It has a relaxed fit, with frill-trimmed tiers running through the midaxi-length skirt for a fun flourish. The long sleeves have gathered cuffs to accentuate the voluminous effect. A button-down front and v-neck give a neat finish, while a full lining within creates a smooth feel."
+    }
+
+]
+}
